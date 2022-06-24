@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Edit with &Vim]
+@="Edit with &Vim"
+"Icon"="C:\\Users\\eeccher\\scoop\\apps\\vim\\current\\gVim.exe"
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Edit with &Vim\command]
+@="\"C:\\Users\\eeccher\\scoop\\apps\\vim\\current\\gVim.exe\" \"%1\""
